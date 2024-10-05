@@ -1,6 +1,6 @@
-package Sep.ex_13092024;
+package Sep;
 
-public class Task01 {
+public class Task01  {
  public static void main(String[] args) {
      // print table of 10
      int num = 10;
@@ -24,10 +24,6 @@ public class Task01 {
      System.out.println();
      System.out.printf("%d * %d = %d",num,10,num*10);
      System.out.println();
-
-
-
-
 
 
  }
