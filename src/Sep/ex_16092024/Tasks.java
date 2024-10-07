@@ -1,6 +1,6 @@
 package Sep.ex_16092024;
 
-public class Task01 {
+public class Tasks {
     public static void main(String[] args) {
         // 1. Difference between = and  ==
         // "=" is assignment operator. It assigns the value to the variable . e.g. int a = 10;
