@@ -10,10 +10,8 @@ public class Tasks {
         //2. byte b = 10; long l = 10l; → How much Byte will be used.
         byte b = 10;
         // 1 byte & 8 bits
-
         long l = 10;
         // 8 byte & 64 bits
-
         String s = "sarika";
         // 8 byte & 64 bits
 
@@ -26,6 +24,7 @@ public class Tasks {
         byte b = 10;
         byte c = 10;
         int a = b+c;
+        System.out.printf("%d+%d=%d",b,c,a);
         System.out.println(a);
         //As per java rules Byte + Byte = int,
         //so if Byte b = 10 and Byte c = 10 then the answer 20 is stored in int.
